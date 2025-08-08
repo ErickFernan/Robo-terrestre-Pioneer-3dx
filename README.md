@@ -8,7 +8,7 @@
 O GIF acima demonstra o funcionamento da estratégia de controle para desvio reativo usando a estratégia de campos potenciais. Para mais detalhes [CLique aqui](https://drive.google.com/drive/u/3/folders/13g316Hx4Hmsa8QIb1kfIOlRtbNrYUDY-).
 
 
-## Para reproduzir e editar o códido do controlador faça o seguinte:
+## Para reproduzir e editar o códido do controlador siga os passos abaixo:
 
 1. Tenha instalado o Matlab e o [Coppelia Robotics](https://www.coppeliarobotics.com/downloads) (Antigo V-Rep)
 
